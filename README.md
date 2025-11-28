@@ -104,7 +104,6 @@ Use OpenPLC, Outsell, or Arduino IDE.
 
 📸 Images
 
-Replace with your own project images:
 
 
 ![605198db-1611-422f-a508-a00d17d3e1d5](https://github.com/user-attachments/assets/3e1d13b2-cbfa-4393-9dba-6ea3f85a2e2c)

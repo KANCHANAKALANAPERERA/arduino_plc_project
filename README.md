@@ -1,4 +1,4 @@
-![605198db-1611-422f-a508-a00d17d3e1d5](https://github.com/user-attachments/assets/8afd46e3-406e-4467-b9e5-a7a72a5135c1)
+
 ⸻
 ![unnamed](https://github.com/user-attachments/assets/7f2baf78-f05e-4f6b-991c-60ab069189da)
 

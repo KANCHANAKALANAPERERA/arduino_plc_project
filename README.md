@@ -41,7 +41,7 @@ The goal is to bridge the gap between maker electronics and professional automat
 
 🔧 Hardware Architecture
 
-![Uploading image.png…]()
+
 
 
 

@@ -2,7 +2,7 @@
 ⸻
 ![unnamed](https://github.com/user-attachments/assets/7f2baf78-f05e-4f6b-991c-60ab069189da)
 
-⚡ Arduino-Based Mini PLC Controller
+<h1>⚡ Arduino-Based Mini PLC Controller</h1>
 
 A compact, open-source PLC built on an Arduino Nano — programmable with Ladder Logic using OpenPLC and Outsell.
 

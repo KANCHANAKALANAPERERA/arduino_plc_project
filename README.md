@@ -41,17 +41,8 @@ The goal is to bridge the gap between maker electronics and professional automat
 
 🔧 Hardware Architecture
 
-┌───────────────────────────────────┐
-│            Arduino Nano           │
-├───────────────────────────────────┤
-│  ▸ Optocoupler Input Stage        │ → 4x Digital Inputs
-│  ▸ Voltage Divider ADC Stage      │ → 4x Analog Inputs
-│                                   │
-│  ▸ Relay Output Stage             │ → 4x Relays
-│  ▸ Transistor Output Stage        │ → 4x PWM/Digital
-│                                   │
-│  ▸ 24V→5V Buck Regulator          │
-└───────────────────────────────────┘
+![Uploading image.png…]()
+
 
 
 ⸻
@@ -117,6 +108,7 @@ Replace with your own project images:
 
 
 ![605198db-1611-422f-a508-a00d17d3e1d5](https://github.com/user-attachments/assets/3e1d13b2-cbfa-4393-9dba-6ea3f85a2e2c)
+<img width="1366" height="768" alt="plc cover" src="https://github.com/user-attachments/assets/325199b8-beeb-4278-b54e-e858e56a9fb2" />
 
 
 ⸻
@@ -137,5 +129,3 @@ Modify and improve freely.
 
 ⸻
 
-
-If you want, I can also generate a Wiki, schematics section, pinout drawings, or a PDF manual.
